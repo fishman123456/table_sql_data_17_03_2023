@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "table_sql_data_17_03_2023/1.0.0": {
+        "runtime": {
+          "table_sql_data_17_03_2023.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "table_sql_data_17_03_2023/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
